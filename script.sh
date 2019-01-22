@@ -15,5 +15,5 @@ export JAVA_HOME=/usr/lib/jvm/java-8-oracle
 export PATH=$PATH:$JAVA_HOME/bin
 
 # install tomcat7 components & start tomcat7
-# sudo apt-get install tomcat7 tomcat7-docs tomcat7-admin tomcat7-examples -y
-# sudo service tomcat7 start
+sudo apt-get install tomcat7 tomcat7-docs tomcat7-admin tomcat7-examples -y
+sudo service tomcat7 start
