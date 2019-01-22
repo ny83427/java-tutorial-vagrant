@@ -1,7 +1,7 @@
 /**
  * <pre>
  * 奇葩 means a super weird man in Chinese, some says Donald Trump is a 奇葩
- * This file is just created to demonstrate UTF-8 support of Java
+ * This file is just created to demonstrate UTF-16 support of Java
  * Write code like this, you would probably be fired soon! Don't do it, man.
  * </pre>
  */
